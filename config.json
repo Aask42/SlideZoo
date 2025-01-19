@@ -148,6 +148,39 @@
       ]
     },
     {
+      "title": "Those female dogs from autozone",
+      "subtitle": "A photo of a parody logo with text",
+      "content": "replace the word female dogs",
+      "bg_style": "gradient",
+      "bg_color_top": [
+        55,
+        50,
+        120
+      ],
+      "bg_color_bottom": [
+        10,
+        10,
+        40
+      ],
+      "font_color": [
+        255,
+        255,
+        255
+      ],
+      "transition": "fade",
+      "auto_openai_image": true,
+      "extra_images": [
+        {
+          "path": "cache/slide_3_2ac69f5b8c.png",
+          "x": "right",
+          "y": "center",
+          "max_width": 512,
+          "max_height": 512,
+          "keep_aspect": true
+        }
+      ]
+    },
+    {
       "title": "Other TCGs and serialized games",
       "subtitle": "Serialization of video game assets",
       "content": "\u2022 Skylanders\n\u2022 Amiibo\n\u2022 Disney Infinity\n\u2022 Diablo 3 Real Money Auction House\n\u2022 TeamFortress 2 Game Themed Hat Simulator\n\u2022 Starlink Starfox",
@@ -513,6 +546,28 @@
       "duration": 10
     },
     {
+      "slide_type": "video",
+      "title": "How to set your team!",
+      "subtitle": "",
+      "video_file": "NSA_Presentation/card_change_demo.mkv",
+      "controls": {
+        "pause": true,
+        "play": true
+      },
+      "bg_color": [
+        0,
+        0,
+        0
+      ],
+      "font_color": [
+        255,
+        255,
+        255
+      ],
+      "transition": "fade",
+      "duration": 10
+    },
+    {
       "title": "What Would a Hacker Do?",
       "subtitle": "WWHD",
       "content": "\u2022 I solved the game \u2022 I built some code to solve the battle system\n\u2022 Created Rainbow-Table generator for all fights\n\u2022 Walkthrough Code part",
@@ -542,30 +597,16 @@
           "max_width": 512,
           "max_height": 512,
           "keep_aspect": true
+        },
+        {
+          "path": "cache/slide_16_7349cfe151.png",
+          "x": "right",
+          "y": "center",
+          "max_width": 512,
+          "max_height": 512,
+          "keep_aspect": true
         }
       ]
-    },
-    {
-      "slide_type": "video",
-      "title": "How to set your team!",
-      "subtitle": "",
-      "video_file": "NSA_Presentation/card_change_demo.mkv",
-      "controls": {
-        "pause": true,
-        "play": true
-      },
-      "bg_color": [
-        0,
-        0,
-        0
-      ],
-      "font_color": [
-        255,
-        255,
-        255
-      ],
-      "transition": "fade",
-      "duration": 10
     },
     {
       "slide_type": "video",
@@ -590,9 +631,31 @@
       "duration": 10
     },
     {
+      "slide_type": "video",
+      "title": "CommandLine Attacks!!",
+      "subtitle": "",
+      "video_file": "NSA_Presentation/python_combat.mkv",
+      "controls": {
+        "pause": true,
+        "play": true
+      },
+      "bg_color": [
+        0,
+        0,
+        0
+      ],
+      "font_color": [
+        255,
+        255,
+        255
+      ],
+      "transition": "fade",
+      "duration": 10
+    },
+    {
       "title": "The End!",
       "subtitle": "AKA: What is a 'Rug Pull'",
-      "content": "\u2022 A rug pull is when a developer takes all the money and runs\n\u2022 In blockchain based systems, a 'rug pull' is draining the 'smart contract' of all its funds\n\u2022 https://github.com/Aask42/SlideZoo\n\u2022 https://github.com/Aask42/FZooGame\n\u2022 https://aask.ltd",
+      "content": "\u2022 A rug pull is when a developer takes all the money and runs\n\u2022 In blockchain based systems, a 'rug pull' is draining the 'smart contract' of all its funds\n\u2022 https://github.com/Aask42/SlideZoo\n\u2022 https://github.com/Aask42/FZooGame\n\u2022 https://aask.ltd \n a picture of curtains",
       "bg_style": "gradient",
       "bg_color_top": [
         60,
@@ -622,6 +685,22 @@
         },
         {
           "path": "cache/slide_18_7d9604d8ea.png",
+          "x": "right",
+          "y": "center",
+          "max_width": 512,
+          "max_height": 512,
+          "keep_aspect": true
+        },
+        {
+          "path": "cache/slide_19_7d9604d8ea.png",
+          "x": "right",
+          "y": "center",
+          "max_width": 512,
+          "max_height": 512,
+          "keep_aspect": true
+        },
+        {
+          "path": "cache/slide_19_cc06584c84.png",
           "x": "right",
           "y": "center",
           "max_width": 512,
