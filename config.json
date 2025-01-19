@@ -1,0 +1,634 @@
+{
+  "window_title": "Throwing Down the Cards",
+  "width": 1920,
+  "height": 1080,
+  "font_name": "/Users/ameliawietting/Library/Fonts/Dyslexie Regular LP186284.ttf",
+  "font_size_title": 36,
+  "font_size_subtitle": 24,
+  "enable_back_button": true,
+  "enable_video_controls": true,
+  "enable_word_wrap": true,
+  "slides": [
+    {
+      "title": "Throwing Down the Cards",
+      "subtitle": "An adventure in NFT 'exploits'\n by Aask",
+      "content": "Zoogame.App, Ethical Behavior, and Steve Irwin in a Pet Store",
+      "bg_style": "gradient",
+      "bg_color_top": [
+        50,
+        50,
+        120
+      ],
+      "bg_color_bottom": [
+        10,
+        10,
+        40
+      ],
+      "font_color": [
+        255,
+        255,
+        255
+      ],
+      "extra_images": [
+        {
+          "path": "NSA_Presentation/first_slide_banner.png",
+          "x": "center",
+          "y": "bottom",
+          "max_width": 1080,
+          "max_height": 500,
+          "keep_aspect": true
+        }
+      ],
+      "transition": "fade"
+    },
+    {
+      "title": "Overview",
+      "subtitle": "",
+      "content": "Whoami?\nWhat is a trading card game?\nTrading cards go digital!\nWhat is an NFT card game?\nWhat did I find?\nWhat did I do?\nDemo videos of the game\nSteve Irwin in a PetStore and Reptile House",
+      "bg_style": "gradient",
+      "bg_color_top": [
+        55,
+        50,
+        120
+      ],
+      "bg_color_bottom": [
+        10,
+        10,
+        40
+      ],
+      "font_color": [
+        255,
+        255,
+        255
+      ],
+      "auto_openai_image": true,
+      "transition": "fade",
+      "extra_images": [
+        {
+          "path": "cache/slide_1_f059f77d6c.png",
+          "x": "right",
+          "y": "center",
+          "max_width": 512,
+          "max_height": 512,
+          "keep_aspect": true
+        },
+        {
+          "path": "cache/slide_1_850fea918d.png",
+          "x": "right",
+          "y": "center",
+          "max_width": 512,
+          "max_height": 512,
+          "keep_aspect": true
+        }
+      ]
+    },
+    {
+      "title": "Who Am I?",
+      "subtitle": "Aask Questions AKA Amelia",
+      "content": "- Staff Embedded Hacker\n- SOC GOON\n- Badgemaker (Infinite Wifi Portal, Internet of Batteries, Pico Ducky, DCZia26)\n- Curious Security Explorer",
+      "bg_style": "gradient",
+      "bg_color_top": [
+        55,
+        50,
+        120
+      ],
+      "bg_color_bottom": [
+        10,
+        10,
+        40
+      ],
+      "font_color": [
+        255,
+        255,
+        255
+      ],
+      "extra_images": [
+        {
+          "path": "NSA_Presentation/slot_hug.png",
+          "x": "right",
+          "y": "bottom",
+          "max_width": 800,
+          "max_height": 500,
+          "keep_aspect": true
+        }
+      ],
+      "transition": "fade"
+    },
+    {
+      "title": "What is a trading card game?",
+      "subtitle": "How are the rules made and enforced?",
+      "content": "Who sets the rules and who sells the cards?\nHow are cards distributed and how are they valued?\nWho decides what is 'legal' and what is 'illegal'?\nWhat is the role of the community in enforcing the rules?",
+      "bg_style": "gradient",
+      "bg_color_top": [
+        55,
+        50,
+        120
+      ],
+      "bg_color_bottom": [
+        10,
+        10,
+        40
+      ],
+      "font_color": [
+        255,
+        255,
+        255
+      ],
+      "transition": "fade",
+      "auto_openai_image": true,
+      "extra_images": [
+        {
+          "path": "cache/slide_3_2ac69f5b8c.png",
+          "x": "right",
+          "y": "center",
+          "max_width": 512,
+          "max_height": 512,
+          "keep_aspect": true
+        }
+      ]
+    },
+    {
+      "title": "Other TCGs and serialized games",
+      "subtitle": "Serialization of video game assets",
+      "content": "\u2022 Skylanders\n\u2022 Amiibo\n\u2022 Disney Infinity\n\u2022 Diablo 3 Real Money Auction House\n\u2022 TeamFortress 2 Game Themed Hat Simulator\n\u2022 Starlink Starfox",
+      "bg_style": "gradient",
+      "bg_color_top": [
+        55,
+        55,
+        120
+      ],
+      "bg_color_bottom": [
+        10,
+        10,
+        40
+      ],
+      "font_color": [
+        255,
+        255,
+        255
+      ],
+      "transition": "slide",
+      "auto_openai_image": true,
+      "extra_images": [
+        {
+          "path": "cache/slide_4_eb30fac675.png",
+          "x": "right",
+          "y": "center",
+          "max_width": 512,
+          "max_height": 512,
+          "keep_aspect": true
+        },
+        {
+          "path": "cache/slide_4_79c913393a.png",
+          "x": "right",
+          "y": "center",
+          "max_width": 512,
+          "max_height": 512,
+          "keep_aspect": true
+        },
+        {
+          "path": "cache/slide_4_0795ac5d90.png",
+          "x": "right",
+          "y": "center",
+          "max_width": 512,
+          "max_height": 512,
+          "keep_aspect": true
+        },
+        {
+          "path": "cache/slide_4_525cffd622.png",
+          "x": "right",
+          "y": "center",
+          "max_width": 512,
+          "max_height": 512,
+          "keep_aspect": true
+        }
+      ]
+    },
+    {
+      "title": "What is an NFT?",
+      "subtitle": "Non-fungible tokens",
+      "content": "\u2022 A unique digital asset\n\u2022 A digital certificate of authenticity\n\u2022 A digital signature\n\u2022 A digital watermark\n\u2022 A digital fingerprint",
+      "bg_style": "gradient",
+      "bg_color_top": [
+        55,
+        55,
+        125
+      ],
+      "bg_color_bottom": [
+        10,
+        10,
+        40
+      ],
+      "font_color": [
+        255,
+        255,
+        255
+      ],
+      "transition": "slide",
+      "auto_openai_image": true,
+      "extra_images": [
+        {
+          "path": "cache/slide_5_887fde29d3.png",
+          "x": "right",
+          "y": "center",
+          "max_width": 512,
+          "max_height": 512,
+          "keep_aspect": true
+        }
+      ]
+    },
+    {
+      "title": "What is a blockchain?",
+      "subtitle": "A distributed ledger",
+      "content": "\u2022 A decentralized database\n\u2022 A distributed database\n\u2022 A public database\n\u2022 A transparent database\n\u2022 A secure database",
+      "bg_style": "gradient",
+      "bg_color_top": [
+        60,
+        55,
+        125
+      ],
+      "bg_color_bottom": [
+        10,
+        10,
+        40
+      ],
+      "font_color": [
+        255,
+        255,
+        255
+      ],
+      "transition": "slide",
+      "auto_openai_image": true,
+      "extra_images": [
+        {
+          "path": "cache/slide_6_66c4b2de36.png",
+          "x": "right",
+          "y": "center",
+          "max_width": 512,
+          "max_height": 512,
+          "keep_aspect": true
+        }
+      ]
+    },
+    {
+      "title": "What is a smart contract?",
+      "subtitle": "A self-executing contract",
+      "content": "\u2022 A self-enforcing contract\n\u2022 A self-verifying contract\n\u2022 A self-validating contract\n\u2022 A self-fulfilling contract\n\u2022 A self-terminating contract",
+      "bg_style": "gradient",
+      "bg_color_top": [
+        60,
+        60,
+        125
+      ],
+      "bg_color_bottom": [
+        10,
+        10,
+        40
+      ],
+      "font_color": [
+        255,
+        255,
+        255
+      ],
+      "transition": "slide",
+      "auto_openai_image": true,
+      "extra_images": [
+        {
+          "path": "cache/slide_7_2d9c10dcb8.png",
+          "x": "right",
+          "y": "center",
+          "max_width": 512,
+          "max_height": 512,
+          "keep_aspect": true
+        }
+      ]
+    },
+    {
+      "title": "What is a DAO?",
+      "subtitle": "A decentralized autonomous organization",
+      "content": "\u2022 A decentralized decision-making body\n\u2022 A decentralized voting body\n\u2022 A decentralized governing body\n\u2022 A decentralized regulatory body\n\u2022 A decentralized enforcement body",
+      "bg_style": "gradient",
+      "bg_color_top": [
+        60,
+        60,
+        130
+      ],
+      "bg_color_bottom": [
+        10,
+        10,
+        40
+      ],
+      "font_color": [
+        255,
+        255,
+        255
+      ],
+      "transition": "slide",
+      "auto_openai_image": true,
+      "extra_images": [
+        {
+          "path": "cache/slide_8_686bcc0476.png",
+          "x": "right",
+          "y": "center",
+          "max_width": 512,
+          "max_height": 512,
+          "keep_aspect": true
+        }
+      ]
+    },
+    {
+      "title": "Going Digital? What could go wrong?!",
+      "subtitle": "More innocent words have never been spoken",
+      "content": "Stuff is being put online!\nIt's a security nightmare!\nIt's a legal nightmare!\nIt's a moral nightmare!\nIt's a financial nightmare!\nIt's a nightmare nightmare!",
+      "bg_style": "gradient",
+      "bg_color_top": [
+        60,
+        60,
+        125
+      ],
+      "bg_color_bottom": [
+        10,
+        10,
+        40
+      ],
+      "font_color": [
+        255,
+        255,
+        255
+      ],
+      "transition": "slide",
+      "auto_openai_image": true,
+      "extra_images": [
+        {
+          "path": "cache/slide_9_b9842a5957.png",
+          "x": "right",
+          "y": "center",
+          "max_width": 512,
+          "max_height": 512,
+          "keep_aspect": true
+        }
+      ]
+    },
+    {
+      "title": "Introducing ZooGame.App",
+      "subtitle": "A digital trading card game",
+      "content": "\u2022 A digital trading card game\n\u2022 A digital collectible card game\n\u2022 A digital card battle game\n\u2022 A digital card strategy game\n\u2022 A digital card combat game",
+      "bg_style": "gradient",
+      "bg_color_top": [
+        60,
+        55,
+        125
+      ],
+      "bg_color_bottom": [
+        10,
+        10,
+        40
+      ],
+      "font_color": [
+        255,
+        255,
+        255
+      ],
+      "transition": "slide",
+      "auto_openai_image": true,
+      "extra_images": [
+        {
+          "path": "cache/slide_10_47b9084003.png",
+          "x": "right",
+          "y": "center",
+          "max_width": 512,
+          "max_height": 512,
+          "keep_aspect": true
+        }
+      ]
+    },
+    {
+      "title": "How I got involved",
+      "subtitle": "A tale of woe",
+      "content": "\u2022 A friend asked me to look at a game\n\u2022 I found a security flaw\n\u2022 I reported the flaw\n\u2022 I was ignored\n\u2022 I was insulted\n\u2022 I was threatened",
+      "bg_style": "gradient",
+      "bg_color_top": [
+        60,
+        60,
+        125
+      ],
+      "bg_color_bottom": [
+        10,
+        10,
+        40
+      ],
+      "font_color": [
+        255,
+        255,
+        255
+      ],
+      "transition": "slide",
+      "auto_openai_image": true,
+      "extra_images": [
+        {
+          "path": "cache/slide_11_e63552d2e7.png",
+          "x": "right",
+          "y": "center",
+          "max_width": 512,
+          "max_height": 512,
+          "keep_aspect": true
+        }
+      ]
+    },
+    {
+      "title": "The ZooGame.App Experience",
+      "subtitle": "A video overview of the game",
+      "content": "\u2022 Setting up your first card deck\n\u2022 Entering combat\n\u2022 Rolling new cards\n\u2022 Buying a combat voucher\n\u2022 Using a combat voucher\n\u2022 PvP vs PvE versions of the game",
+      "bg_style": "gradient",
+      "bg_color_top": [
+        60,
+        60,
+        125
+      ],
+      "bg_color_bottom": [
+        10,
+        10,
+        40
+      ],
+      "font_color": [
+        255,
+        255,
+        255
+      ],
+      "transition": "slide",
+      "auto_openai_image": true,
+      "extra_images": [
+        {
+          "path": "cache/slide_12_ca8a9a2e1f.png",
+          "x": "right",
+          "y": "center",
+          "max_width": 512,
+          "max_height": 512,
+          "keep_aspect": true
+        }
+      ]
+    },
+    {
+      "slide_type": "video",
+      "title": "What the heck is ZooGame anyways?",
+      "subtitle": "",
+      "video_file": "NSA_Presentation/zoogame_tour_2.mkv",
+      "controls": {
+        "pause": true,
+        "play": true
+      },
+      "bg_color": [
+        0,
+        0,
+        0
+      ],
+      "font_color": [
+        255,
+        255,
+        255
+      ],
+      "transition": "fade",
+      "duration": 10
+    },
+    {
+      "slide_type": "video",
+      "title": "Let's have a fight!",
+      "subtitle": "",
+      "video_file": "NSA_Presentation/zoogame_tour_1_with_combat.mkv",
+      "controls": {
+        "pause": true,
+        "play": true
+      },
+      "bg_color": [
+        0,
+        0,
+        0
+      ],
+      "font_color": [
+        255,
+        255,
+        255
+      ],
+      "transition": "fade",
+      "duration": 10
+    },
+    {
+      "title": "What Would a Hacker Do?",
+      "subtitle": "WWHD",
+      "content": "\u2022 I solved the game \u2022 I built some code to solve the battle system\n\u2022 Created Rainbow-Table generator for all fights\n\u2022 Walkthrough Code part",
+      "bg_style": "gradient",
+      "bg_color_top": [
+        60,
+        60,
+        125
+      ],
+      "bg_color_bottom": [
+        10,
+        10,
+        40
+      ],
+      "font_color": [
+        255,
+        255,
+        255
+      ],
+      "transition": "fade",
+      "auto_openai_image": true,
+      "extra_images": [
+        {
+          "path": "cache/slide_15_7349cfe151.png",
+          "x": "right",
+          "y": "center",
+          "max_width": 512,
+          "max_height": 512,
+          "keep_aspect": true
+        }
+      ]
+    },
+    {
+      "slide_type": "video",
+      "title": "How to set your team!",
+      "subtitle": "",
+      "video_file": "NSA_Presentation/card_change_demo.mkv",
+      "controls": {
+        "pause": true,
+        "play": true
+      },
+      "bg_color": [
+        0,
+        0,
+        0
+      ],
+      "font_color": [
+        255,
+        255,
+        255
+      ],
+      "transition": "fade",
+      "duration": 10
+    },
+    {
+      "slide_type": "video",
+      "title": "Let's be someone else!!",
+      "subtitle": "",
+      "video_file": "NSA_Presentation/SpoofingPoC.mkv",
+      "controls": {
+        "pause": true,
+        "play": true
+      },
+      "bg_color": [
+        0,
+        0,
+        0
+      ],
+      "font_color": [
+        255,
+        255,
+        255
+      ],
+      "transition": "fade",
+      "duration": 10
+    },
+    {
+      "title": "The End!",
+      "subtitle": "AKA: What is a 'Rug Pull'",
+      "content": "\u2022 A rug pull is when a developer takes all the money and runs\n\u2022 In blockchain based systems, a 'rug pull' is draining the 'smart contract' of all its funds\n\u2022 https://github.com/Aask42/SlideZoo\n\u2022 https://github.com/Aask42/FZooGame\n\u2022 https://aask.ltd",
+      "bg_style": "gradient",
+      "bg_color_top": [
+        60,
+        60,
+        125
+      ],
+      "bg_color_bottom": [
+        10,
+        10,
+        40
+      ],
+      "font_color": [
+        255,
+        255,
+        255
+      ],
+      "transition": "fade",
+      "auto_openai_image": true,
+      "extra_images": [
+        {
+          "path": "cache/slide_18_5df3bbe386.png",
+          "x": "right",
+          "y": "center",
+          "max_width": 512,
+          "max_height": 512,
+          "keep_aspect": true
+        },
+        {
+          "path": "cache/slide_18_7d9604d8ea.png",
+          "x": "right",
+          "y": "center",
+          "max_width": 512,
+          "max_height": 512,
+          "keep_aspect": true
+        }
+      ]
+    }
+  ]
+}
